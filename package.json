@@ -1,0 +1,33 @@
+{
+  "name": "kraken-first-test",
+  "version": "1.0.0",
+  "description": "This is a project for understand, learn test 🧪 with kraken 💻🐙",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/kraken-first-test.git"
+  },
+  "keywords": [
+    "Kraken",
+    "tests",
+    "javascript",
+    "node.js",
+    "automatic",
+    "tests",
+    "cucumber",
+    "e2e",
+    "gherkin"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/kraken-first-test/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/kraken-first-test#readme",
+  "dependencies": {
+    "kraken-node": "^1.0.24"
+  }
+}
