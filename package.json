@@ -4,7 +4,7 @@
   "description": "This is a project for understand, learn test 🧪 with kraken 💻🐙",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "kraken:test": "./node_modules/kraken-node/bin/kraken-node run"
   },
   "repository": {
     "type": "git",
